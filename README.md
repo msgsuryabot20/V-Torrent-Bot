@@ -1,5 +1,5 @@
 <div align="center">
-<h1> ᴠ-ᴛᴏʀʀᴇɴᴛ ᴘʀᴏ <h1>
+<h1> ᴠ-ᴛᴏʀʀᴇɴᴛ ʙᴏᴛ <h1>
 </div>
 
 > So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. 
