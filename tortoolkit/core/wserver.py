@@ -542,8 +542,8 @@ section span{
           src="https://telegra.ph/file/b499c9392cfb8c52f11f7.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub">
-          <h2 class="name">TorToolkitX</h2>
+        <a href="https://t.me/VijayAdithyaa">
+          <h2 class="name">ᴠ-ᴛᴏʀʀᴇɴᴛ ᴘʀᴏ</h2>
         </a>
       </div>
       <div class="social">
@@ -732,14 +732,14 @@ async def e404_middleware(app, handler):
             response = await handler(request)
             if response.status == 404:
                 return web.Response(
-                    text="<h1>404: Page not found</h2><br><h3>TorToolKitX</h3>",
+                    text="<h1>404: Page not found</h2><br><h3>✗³𝙲𝚘𝚍𝚒𝚗𝚐</h3>",
                     content_type="text/html",
                 )
             return response
         except web.HTTPException as ex:
             if ex.status == 404:
                 return web.Response(
-                    text="<h1>404: Page not found</h2><br><h3>TorToolKitX</h3>",
+                    text="<h1>404: Page not found</h2><br><h3>✗³𝙲𝚘𝚍𝚒𝚗𝚐</h3>",
                     content_type="text/html",
                 )
             raise
