@@ -27,7 +27,7 @@ page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent File Selector</title>
-    <link rel="icon" href="https://telegra.ph/file/69e1118355aac6913ab1b.jpg" type="image/jpg">
+    <link rel="icon" href="https://telegra.ph/file/b499c9392cfb8c52f11f7.jpg" type="image/jpg">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -200,16 +200,16 @@ input[type="submit"]:hover, input[type="submit"]:focus{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
+          src="https://telegra.ph/file/b499c9392cfb8c52f11f7.jpg"
           alt="logo"
         />
-        <a href="https://t.me/KangersHub"> 
-          <h2 class="name">TorToolkitX</h2>
+        <a href="https://t.me/VijayAdithyaa"> 
+          <h2 class="name">ᴠ-ᴛᴏʀʀᴇɴᴛ ᴘʀᴏ</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/KangersHub/TortoolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/Vijayadithya003/V-Torrent-Bot"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/VijayAdithyaa"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -343,7 +343,7 @@ code_page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent Code Checker</title>
-    <link rel="icon" href="https://telegra.ph/file/69e1118355aac6913ab1b.jpg" type="image/jpg"> 
+    <link rel="icon" href="https://telegra.ph/file/b499c9392cfb8c52f11f7.jpg" type="image/jpg"> 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -539,7 +539,7 @@ section span{
     <header>
       <div class="brand">
         <img
-          src="https://telegra.ph/file/69e1118355aac6913ab1b.jpg"
+          src="https://telegra.ph/file/b499c9392cfb8c52f11f7.jpg"
           alt="logo"
         />
         <a href="https://t.me/KangersHub">
@@ -547,8 +547,8 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/https://github.com/KangersHub/TorToolkitX"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/KangersHub"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/https://github.com/Vijayadithya003/V-Torrent-Bot"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/VijayAdithyaa"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -721,7 +721,7 @@ async def set_priority(request):
 @routes.get("/")
 async def homepage(request):
     return web.Response(
-        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See TorToolkitX on <a href="https://github.com/KangersHub/TorToolkitX">@GitHub</a></h2>\n<h2>🥲Join KangersHub <a href="https://t.me/KangersHub">TG channel</a></h2>',
+        text='<h1>🤗TorToolkitX webserver is Up and Running successfully🟢</h1>\n<h2>⚡See ✗³𝙲𝚘𝚍𝚒𝚗𝚐 on <a href="https://github.com/Vijayadithya003/V-Torrent-Bot">@GitHub</a></h2>\n<h2>🥲Join ✗³𝙲𝚘𝚍𝚒𝚗𝚐 <a href="https://t.me/VijayAdithyaa">TG channel</a></h2>',
         content_type="text/html",
     )
 
